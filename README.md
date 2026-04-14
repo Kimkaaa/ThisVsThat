@@ -1,7 +1,7 @@
 # ThisVsThat Project (이거저거 프로젝트)
 
 <p align="center">
-    <img src="./images/cover.png" alt="cover" width="700" />
+    <img src="./images/cover.png" alt="cover" width="800" />
 </p>
 
 <br>
