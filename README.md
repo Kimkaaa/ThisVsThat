@@ -1,6 +1,8 @@
 # ThisVsThat Project (이거저거 프로젝트)
 
-<img src="./images/cover.png" alt="cover" />
+<p align="center">
+    <img src="./images/cover.png" alt="cover" width="800" />
+</p>
 
 <br>
 
